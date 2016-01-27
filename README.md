@@ -19,7 +19,7 @@ In addition, the use of **[modernizr](http://modernizr.com)** will change the un
 
 ## Example
 
-Add the **[less](http://lesscss.org)** file to your bootstrap 3 project add compile your code. In the Modal HTML, add the transition you like :
+Add the less or scss or css file to your bootstrap 3 project add compile your code. In the Modal HTML, add the transition you like :
 
     <div class="modal fade <transition-type>" id="myModalId" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
